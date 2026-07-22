@@ -1,0 +1,4 @@
+knolleary/PubSubClient
+adafruit/DHT sensor library
+adafruit/Adafruit Unified Sensor
+bblanchon/ArduinoJson
